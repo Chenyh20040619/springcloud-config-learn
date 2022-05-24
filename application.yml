@@ -20,7 +20,7 @@ eureka:
 spring:
   profiles: test
 server:
-  port: 6001
+  port: 6002
 
 eureka:
   instance:
